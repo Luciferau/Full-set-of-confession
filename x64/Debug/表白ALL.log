@@ -1,0 +1,34 @@
+﻿  main.cpp
+F:\WorkCpp\表白ALL\main.cpp(149,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(149,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(155,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(155,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(162,13): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(161,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(168,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(168,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(201,13): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(210,5): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(209,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(275,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(509,91): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(509,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(509,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(509,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(523,40): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(524,40): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(537,55): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(538,53): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(570,23): warning C4305: “+=”: 从“double”到“float”截断
+F:\WorkCpp\表白ALL\main.cpp(574,38): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(717,16): warning C4002: 类函数宏的调用“RGB”参数过多
+F:\WorkCpp\表白ALL\main.cpp(721,17): warning C4002: 类函数宏的调用“RGB”参数过多
+F:\WorkCpp\表白ALL\main.cpp(1120,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\WorkCpp\表白ALL\main.cpp(1142,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(1167,52): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(1167,33): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(1186,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+F:\WorkCpp\表白ALL\main.cpp(1344,16): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(1359,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\WorkCpp\表白ALL\main.cpp(611): warning C4715: “createSnow”: 不是所有的控件路径都返回值
+  表白ALL.vcxproj -> F:\WorkCpp\表白ALL\x64\Debug\表白ALL.exe
